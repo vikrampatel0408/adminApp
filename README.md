@@ -7,10 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## git clone 
-## configure database and add database named adminapp
-## import the adminapp.sql file in adminapp
-## on CLI write php artisan serve
+### git clone 
+### configure database and add database named adminapp
+### import the adminapp.sql file in adminapp
+### on CLI write php artisan serve
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
